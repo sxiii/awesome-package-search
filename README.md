@@ -14,6 +14,11 @@ Awesome list of linux package search databases
 * Linux-Apps: https://www.linux-apps.com
 * RPM: http://rpm.pbone.net
 
+## Android
+* https://apkpure.com/search
+* https://www.apkmirror.com
+* https://en.aptoide.com
+
 ## Linux Distro own package searches
 * Alpine: https://pkgs.alpinelinux.org/packages
 * Arch: https://www.archlinux.org/packages/ and AUR: https://aur.archlinux.org
@@ -29,6 +34,8 @@ Awesome list of linux package search databases
 * SUSE: https://packagehub.suse.com
 * Slackware: https://packages.slackware.
 * Sabayon: https://packages.sabayon.org
+* Puppy: http://wikka.puppylinux.com/CategoryCategory
+* ROSA ABF: https://abf.io/search
 
 ## Programming languages package searches
 * Python: https://pypi.org
@@ -40,6 +47,7 @@ Awesome list of linux package search databases
 
 ## Related tools
 * https://copr.fedorainfracloud.org
+* https://www.orbital-apps.com/blog/2016/introducing-universal-orbs
 
 ## Contributing
 Please file an issue with URL to package search engine and I will add it.
