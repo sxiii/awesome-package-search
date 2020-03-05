@@ -10,6 +10,7 @@ Awesome list of linux package search databases
 ## Distro-agnostic package manager databases:
 * Snap: https://snapcraft.io
 * Appimage: https://appimage.github.io/apps/
+* FlatPak: https://flathub.org
 
 ## Linux Distro own package searches
 * Alpine: https://pkgs.alpinelinux.org/packages
