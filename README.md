@@ -23,8 +23,8 @@ Awesome list of linux package search databases
 * NixOS: https://nixos.org/nixos/packages.html
 
 ## Programming languages package searches
-* https://pypi.org
-* CPAN
+* Python: https://pypi.org
+* Perl CPAN: https://www.cpan.org
 * ...
 
 ## Related tools
