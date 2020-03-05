@@ -25,7 +25,7 @@ Awesome list of linux package search databases
 ## Programming languages package searches
 * Python: https://pypi.org
 * Perl CPAN: https://www.cpan.org
-* ...
+* NodeJS: https://www.npmjs.com/search?q=Online
 
 ## Related tools
 * https://copr.fedorainfracloud.org
