@@ -18,7 +18,8 @@ Awesome list of linux package search databases
 * Ubuntu: https://packages.ubuntu.com
 * Debian: https://packages.debian.org
 * Mageia: https://madb.mageia.org
-* Void: https://voidlinux.org/packages/
+* Void: https://voidlinux.org/packages
+* NixOS: https://nixos.org/nixos/packages.html
 
 ## Programming languages package searches
 * https://pypi.org
