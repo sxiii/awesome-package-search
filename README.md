@@ -11,6 +11,7 @@ Awesome list of linux package search databases
 * Snap: https://snapcraft.io
 * Appimage: https://appimage.github.io/apps/
 * FlatPak: https://flathub.org
+* Exherbo: https://git.exherbo.org/summer/
 * Linux-Apps: https://www.linux-apps.com
 * RPM: http://rpm.pbone.net
 
@@ -22,7 +23,7 @@ Awesome list of linux package search databases
 ## Linux Distro own package searches
 * Alpine: https://pkgs.alpinelinux.org/packages
 * Arch: https://www.archlinux.org/packages/ and AUR: https://aur.archlinux.org
-* Gentoo: https://packages.gentoo.org
+* Gentoo: https://packages.gentoo.org and https://paludis.exherbo.org
 * Ubuntu: https://packages.ubuntu.com and PPA: https://launchpad.net/ubuntu/+ppas
 * Debian: https://packages.debian.org
 * Mint: http://packages.linuxmint.com
